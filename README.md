@@ -1,2 +1,1 @@
-# CabinCareAI
-AI-Powered Cabin Atmosphere Management
+# CabinCareAI - AI-Powered Cabin Atmosphere Management
